@@ -1,0 +1,7 @@
+c:\users\qasim ali\source\repos\FTP\FTPServer\bin\Debug\FTPServer.exe.config
+c:\users\qasim ali\source\repos\FTP\FTPServer\bin\Debug\FTPServer.exe
+c:\users\qasim ali\source\repos\FTP\FTPServer\bin\Debug\FTPServer.pdb
+c:\users\qasim ali\source\repos\FTP\FTPServer\obj\Debug\FTPServer.csprojResolveAssemblyReference.cache
+c:\users\qasim ali\source\repos\FTP\FTPServer\obj\Debug\FTPServer.csproj.CoreCompileInputs.cache
+c:\users\qasim ali\source\repos\FTP\FTPServer\obj\Debug\FTPServer.exe
+c:\users\qasim ali\source\repos\FTP\FTPServer\obj\Debug\FTPServer.pdb

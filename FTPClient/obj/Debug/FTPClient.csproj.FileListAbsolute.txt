@@ -1,0 +1,7 @@
+C:\Users\Qasim Ali\source\repos\FTP\FTPClient\obj\Debug\FTPClient.csproj.CoreCompileInputs.cache
+C:\Users\Qasim Ali\source\repos\FTP\FTPClient\bin\Debug\FTPClient.exe.config
+C:\Users\Qasim Ali\source\repos\FTP\FTPClient\bin\Debug\FTPClient.exe
+C:\Users\Qasim Ali\source\repos\FTP\FTPClient\bin\Debug\FTPClient.pdb
+C:\Users\Qasim Ali\source\repos\FTP\FTPClient\obj\Debug\FTPClient.exe
+C:\Users\Qasim Ali\source\repos\FTP\FTPClient\obj\Debug\FTPClient.pdb
+C:\Users\Qasim Ali\source\repos\FTP\FTPClient\obj\Debug\FTPClient.csprojResolveAssemblyReference.cache
